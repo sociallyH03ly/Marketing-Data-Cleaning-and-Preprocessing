@@ -3,7 +3,7 @@
 ## Overview
 A data cleaning and preprocessing project focused on transforming a messy marketing dataset into a structured, consistent, and analysis-ready CSV file using Python, Pandas, and NumPy in Google Colab.
 
-# Data Cleaning Process
+## Data Cleaning Process
 1. The project covers the following data-cleaning steps:
 2. Column Name Cleaning – Standardized column names for consistency and readability.
 2. Data Type Conversion and Symbol Cleaning – Corrected inconsistent data types and removed unnecessary symbols from values.
@@ -15,7 +15,7 @@ A data cleaning and preprocessing project focused on transforming a messy market
 8. Outlier Detection – Examined the dataset for unusual or potentially anomalous values.
 9. String Parsing – Cleaned and standardized text-based data for improved consistency.
 
-# Technologies Used
+## Technologies Used
 - **Python** 
 - **Google Colab**
 - **Pandas**
